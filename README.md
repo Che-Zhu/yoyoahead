@@ -27,3 +27,7 @@ In internet culture, especially in China, transforming corporate statements or m
 ### Note
 
 Although the meme carries a humorous and sometimes sarcastic tone, it's essential to approach it neutrally and understand the underlying cultural and corporate contexts.
+
+
+## Acknowledgements
+Github icon inspired by [Github Corners](https://github.com/tholman/github-corners)
